@@ -27,7 +27,7 @@ const collectEmployees = function() {
 
       //prompted user to enter valid number.
      getsalary = prompt('enter valid salary');
-      salary = getsalary;
+      salary = `${getsalary}`;
     }
 
     
