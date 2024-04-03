@@ -35,7 +35,7 @@ const collectEmployees = function() {
     const employee = {
     firstName: firstName,
     lastName: lastName,
-    salary: `$${salary}`,
+    salary: salary
     }
     
     //confirmed if i wanted to add employee. if yes it will re run the function with addemployee being true. if cancel it will be false moving to next step.
